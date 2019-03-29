@@ -1,3 +1,7 @@
 package testmod
 
-const A = "A"
+const(
+	A = "A"
+	B = "B"
+)
+
